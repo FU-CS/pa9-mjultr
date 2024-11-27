@@ -20,7 +20,7 @@ interface Graph {
      * Determine if there is a cycle in the graph.
      * @return true if the graph contains a cycle, false otherwise
      */ 
-    public boolean hasNegativeCycle();
+    // public boolean hasNegativeCycle();
 
     /**
      * Find the shortest path between v and all other nodes, using Bellman Ford. 
